@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd615267-9089-4d87-af4a-a6b58fb19d3f" name="Default" comment="" />
+    <list default="true" id="dd615267-9089-4d87-af4a-a6b58fb19d3f" name="Default" comment="ok">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/model_logs/events.out.tfevents.1521365400.RIZA" afterPath="$PROJECT_DIR$/model_logs/events.out.tfevents.1521365400.RIZA" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/images/bayesian_nn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/images/zhusuan-logo-h.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/images/zhusuan-logo-h.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/images/zhusuan-logo-v.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/_static/images/zhusuan-logo-v.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.diagnostics.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.distributions.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.evaluation.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.hmc.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.legacy.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.model.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.transform.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.utils.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/api/zhusuan.variational.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/conf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/index.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/mathjax.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/post_apidoc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/refs.bib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/tutorials/bayesian_nn.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/tutorials/concepts.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/docs/tutorials/vae.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/bayesian_neural_nets/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/bayesian_neural_nets/bayesian_nn.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/bayesian_neural_nets/variational_dropout.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/conf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/gaussian_process/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/gaussian_process/svgp.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/gaussian_process/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/generative_adversarial_nets/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/generative_adversarial_nets/dcgan.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/generative_adversarial_nets/wasserstein_gan.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/normalizing_flows/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/normalizing_flows/dlgm_nf.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/probabilistic_matrix_factorization/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/probabilistic_matrix_factorization/logistic_pmf_hmc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/semi_supervised_vae/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/semi_supervised_vae/vae_ssl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/semi_supervised_vae/vae_ssl_rws.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/sigmoid_belief_nets/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/sigmoid_belief_nets/sbn_rws.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/sigmoid_belief_nets/sbn_vimco.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/topic_models/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/topic_models/lntm_mcem.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/toy_examples/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/toy_examples/gaussian.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/toy_examples/toy2d_intractable.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/utils/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/utils/dataset.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/utils/multi_gpu.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/utils/optimizers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/utils/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/bernoulli_latent_vae.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/concrete_latent_vae.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/iwae.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/vae.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/examples/variational_autoencoders/vae_conv.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/requirements-dev.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/setup.cfg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/setup.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/_div_op.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/_true_div_op.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/test_base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/test_multivariate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/test_special.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/test_univariate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/test_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/distributions/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/legacy/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/model/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/model/test_base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/model/test_stochastic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/model/test_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/test_diagnostics.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/test_evaluation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/test_transform.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/test_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/test_base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/test_exclusive_kl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/test_inclusive_kl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/test_monte_carlo.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/tests/variational/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/diagnostics.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/multivariate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/special.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/univariate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/distributions/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/evaluation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/hmc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/legacy/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/model/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/model/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/model/stochastic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/model/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/transform.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/variational/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/variational/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/variational/exclusive_kl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/variational/inclusive_kl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/zhusuan-master/zhusuan/variational/monte_carlo.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +137,8 @@
       <file leaf-file-name="vae_lstm-lstm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vae_lstm-lstm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+            <state relative-caret-position="191">
+              <caret line="134" column="73" lean-forward="true" selection-start-line="134" selection-start-column="73" selection-end-line="134" selection-end-column="73" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -32,6 +155,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -39,6 +165,7 @@
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/dataset/convertTextToPickle.py" />
         <option value="$PROJECT_DIR$/vae_lstm-lstm.py" />
+        <option value="$PROJECT_DIR$/PTB_DATA/Delete.py" />
       </list>
     </option>
   </component>
@@ -47,6 +174,7 @@
     <option name="width" value="1362" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -78,7 +206,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="F:/Progam Files/Git/bin/git.exe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,13 +347,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1362" height="735" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18350668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.50297177" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290735" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -241,6 +371,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -340,10 +474,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PTB_DATA/Delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vae_lstm-lstm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+        <state relative-caret-position="191">
+          <caret line="134" column="73" lean-forward="true" selection-start-line="134" selection-start-column="73" selection-end-line="134" selection-end-column="73" />
           <folding>
             <element signature="e#0#64#0" expanded="true" />
           </folding>
